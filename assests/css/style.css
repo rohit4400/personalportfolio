@@ -1,0 +1,33 @@
+.head1{
+    color: rgb(49, 61, 230);
+    font-size: x-large;
+}
+.com{
+    font-size: x-large;
+}
+body { 
+    margin: 0 auto; 
+    background-position:center; 
+    background-size: contain; 
+} 
+
+.menu {    
+    position: sticky; 
+    top: 0; 
+    background-color: #009900; 
+    padding:10px 0px 10px 0px; 
+    color:white; 
+    margin: 0 auto; 
+    overflow: hidden; 
+} 
+.menu a { 
+    float: left; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+    font-size: 20px; 
+} 
+.projects{
+    font-size: x-large;
+}
